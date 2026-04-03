@@ -20,7 +20,7 @@ Profissional de tecnologia com formação em Informática Biomédica (UFPR) e es
 - [invaders](https://github.com/vargastiago/invaders) - Projeto em Python com abordagem de jogo/simulação.
 - [desafio-avanade](https://github.com/vargastiago/desafio-avanade) - Desafio técnico Avanade em C#.
 - [desafio-dio-api-rest](https://github.com/vargastiago/desafio-dio-api-rest) - Desafio técnico Java/Spring Boot.
-- [cs188-projetos](https://github.com/vargastiago/cs188-projetos) - Estudos e implementaçõees baseadas em IA.
+- [cs188-projetos](https://github.com/vargastiago/cs188-projetos) - Estudos e implementações baseadas em IA.
 
 ## Contato
 
