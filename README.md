@@ -16,6 +16,7 @@ Profissional de tecnologia com formação em Informática Biomédica (UFPR) e es
 
 ## Projetos em destaque
 
+- [mlops_project](https://github.com/vargastiago/mlops_project) - Projeto em Python para aprendizado de MLOps.
 - [companion-app](https://github.com/vargastiago/companion-app) - Aplicação em Vue.js.
 - [invaders](https://github.com/vargastiago/invaders) - Projeto em Python com abordagem de jogo/simulação.
 - [desafio-avanade](https://github.com/vargastiago/desafio-avanade) - Desafio técnico Avanade em C#.
